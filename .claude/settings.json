@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "notebooklm-context": {
+      "command": "python",
+      "args": ["-m", "notebooklm_mcp.server"],
+      "cwd": "${workspaceFolder}",
+      "env": {}
+    }
+  }
+}
